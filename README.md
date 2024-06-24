@@ -1,1 +1,1 @@
-Projeto desenvolvido na trilha explorer da Rocketseat.
+Projeto introdutório de aprendizado em React, desenvolvido na trilha Explorer da Rocketseat!
